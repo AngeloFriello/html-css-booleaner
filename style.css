@@ -1,6 +1,6 @@
 *{
-    margin: 0;
-    padding: 2px;
+    margin: 2px;
+    padding: 0px;
 
 }
 
@@ -28,5 +28,13 @@ h1{
 a{
     text-decoration: none;
     font-size: 20px;
-    text-decoration: cornflowerblue
+
+}
+
+#tabella{
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+    align:center;
+    
 }

@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 2px;
+
+}
+
+
+#intestazione{
+    background-image:url(./img/pattern.png) ;
+    height: 100px;
+    background-color: blue;
+    padding: 0px;
+}
+
+#logo{
+    width: 200px;
+}
+
+h1{
+    font-size: 70px;
+}
+
+#grassetto{
+    background-color: yellow;
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    text-decoration: cornflowerblue
+}

@@ -1,19 +1,25 @@
 *{
-    margin: 2px;
+    margin: 0px;
     padding: 0px;
 
 }
 
+main{
+    margin: 5px;
+}
 
 #intestazione{
     background-image:url(./img/pattern.png) ;
     height: 100px;
-    background-color: blue;
-    padding: 0px;
+    background-color: lightblue;
+    background-size: contain;
+    width: 100%;
+    
 }
 
 #logo{
     width: 200px;
+   
 }
 
 h1{
@@ -37,4 +43,10 @@ a{
     width: 100%;
     align:center;
     
+}
+
+#paragrafo{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
 }
